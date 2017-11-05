@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 542.58 177.74">
+    <defs>
+        <style>
+            .cls-1,.cls-2{
+                fill:#4c4c4c;
+            }
+            .cls-2{
+                font-size:120px;
+            }
+            .cls-2,.cls-5{
+                font-family:Roboto-Light,Roboto;
+            }
+            .cls-3,.cls-4{
+                font-size:72px;
+                font-family:Roboto-Thin,Roboto;
+            }
+            .cls-4{
+                letter-spacing:0.01em;
+            }
+            .cls-5,.cls-6{
+                font-size:150px;
+                fill:#46e856;
+            }
+            .cls-6{
+                font-family:Roboto-Regular,Roboto;
+            }
+            .blink{
+                animation: animate 1s cubic-bezier(0, 0.74, 0, 1.31) infinite;
+            }
+            @keyframes animate{
+                50%{
+                    fill: white;
+                }
+            }
+        </style>
+    </defs>
+    <title>Asset 1</title>
+    <g id="Layer_2" data-name="Layer 2">
+        <g id="Layer_1-2" data-name="Layer 1">
+            <path class="cls-1"
+                  d="M532.58,25.15a5,5,0,0,1,5,5v115a5,5,0,0,1-5,5h-431a5,5,0,0,1-5-5v-115a5,5,0,0,1,5-5h431m0-5h-431a10,10,0,0,0-10,10v115a10,10,0,0,0,10,10h431a10,10,0,0,0,10-10v-115a10,10,0,0,0-10-10Z"/>
+            <text class="cls-2" transform="translate(104.21 128.32)">b
+                <tspan class="cls-3" x="66.5" y="0">ashίστες</tspan>
+            </text>
+            <text class="cls-5 blink" transform="translate(465 128.32)">_</text>
+            <text class="cls-6" transform="translate(0 137.09)">&gt;</text>
+        </g>
+    </g>
+</svg>
