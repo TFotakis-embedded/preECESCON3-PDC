@@ -61,7 +61,7 @@ Control all smart house devices and enable automations via detecting the room yo
 
 <div style="text-align:center">
 	<h2><a href="https://github.com/Krith-man">Emmanouil Kritharakis</a></h2>
-	<h2><a href="https://github.com/Almidi">Apostolis Vailakis</a></h2>
+	<h2><a href="https://github.com/Almidi">Apostolos-Nikolaos Vailakis</a></h2>
 	<h2><a href="https://github.com/mxalk">Manolis Chalkiadakis</a></h2>
 	<h2><a href="https://github.com/TFotakis">Tzanis Fotakis</a></h2>
 </div>
